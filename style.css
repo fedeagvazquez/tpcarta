@@ -1,0 +1,23 @@
+.caja-padre {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    margin-top: 110px;
+}
+
+.tablas { 
+
+    width: 40%;
+}
+h1{
+    text-align: center;
+    color: whitesmoke;
+}
+body{
+    background-color: #1a150f!important;
+}
+
+.logo {
+    margin: 0 auto;
+    display: block;
+}
